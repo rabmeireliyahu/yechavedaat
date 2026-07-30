@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>מרן הראשון לציון הרב דוד יוסף - Harav David Yosef</title>
-    <description>שיעורים מהראשון לציון הרב דוד יוסף</description>
+    <description>שיעורי הלכה למעשה מפי הראשון לציון הרב דוד יוסף שליט"א, מחבר "הלכה ברורה". הלכות שבת, כשרות, ברכות, מועדים ופסיקה ספרדית על פי מרן הרב עובדיה יוסף זצ"ל - אוצר התורה.</description>
+    <itunes:summary>שיעורי הלכה למעשה מפי הראשון לציון הרב דוד יוסף שליט"א, מחבר "הלכה ברורה". הלכות שבת, כשרות, ברכות, מועדים ופסיקה ספרדית על פי מרן הרב עובדיה יוסף זצ"ל - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/yechavedaat</link>
     <language>he</language>
     <itunes:author>הרב דוד יוסף</itunes:author>
